@@ -1,8 +1,8 @@
-appId: app.clawx.desktop
+appId: app.logicclaw.desktop
 productName: 逻辑工坊
 copyright: Copyright © 2026 逻辑工坊
 compression: maximum
-artifactName: ${productName}-${version}-${os}-${arch}.${ext}
+artifactName: ${name}-${version}-${os}-${arch}.${ext}
 
 directories:
   output: release
