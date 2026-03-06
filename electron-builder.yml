@@ -153,6 +153,7 @@ linux:
     - target: rpm
       arch:
         - x64
+        - arm64
   category: Utility
   maintainer: 逻辑工坊团队 <public@valuecell.ai>
   vendor: 逻辑工坊
